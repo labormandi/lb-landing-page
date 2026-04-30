@@ -1,5 +1,5 @@
 const ENQUIRY_URL = 'https://dev.api.labormandi.com/core/landing/enquiry';
-const SUBSCRIBE_URL = 'http://localhost:8080/core/landing/subscribe';
+const SUBSCRIBE_URL = 'https://dev.api.labormandi.com/core/landing/subscribe';
 
 document.addEventListener('DOMContentLoaded', () => {
     AOS.init({
